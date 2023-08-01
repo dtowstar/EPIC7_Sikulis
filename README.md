@@ -9,3 +9,5 @@ alt+shift+v能強制關閉執行程式
 需要環境
 1. jDK11以上版本安裝
 2. 任意手機模擬器
+
+運行影片 https://youtu.be/LlE27acpKOo
